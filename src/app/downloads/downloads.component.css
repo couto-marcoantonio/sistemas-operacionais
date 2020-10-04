@@ -1,0 +1,14 @@
+a.download-version {
+    font-size: 30px !important;
+    color: #5f2b84 !important;
+    text-decoration: none;
+    /*display: list-item;
+    list-style-type: disc;
+    list-style-position: inside;*/
+}
+
+.list-item-download {
+    background-color: whitesmoke;
+    padding: 10px 30px;
+    border-radius: 50px;   
+}

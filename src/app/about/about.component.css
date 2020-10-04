@@ -1,0 +1,12 @@
+a {
+    color: #fafafa !important;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #5f2b84 !important;
+}
+
+p {
+    margin: 0;
+}

@@ -1,0 +1,40 @@
+.menu-bar{
+    background-color: #dadada;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    z-index: 5;
+}
+
+.logo {
+    display: inline;
+    position: absolute;
+    right: 0;
+    margin-right: 40px;
+}
+
+.menu-item {
+    color: #5f2b84 !important; 
+    padding: 17px 25px;
+    display: inline;
+    font-size: large;
+    font-weight: 700;
+}
+
+.menu-item:hover {
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.background-logo {
+    position: relative;
+    top: 100px;
+    opacity: 10%;
+    left: 35%;
+    width: min-content;
+}

@@ -1,0 +1,12 @@
+.image-grafico {
+    height: 280px;
+}
+
+div.statistics-screen {
+    color: #fafafa;
+    position: relative;
+    margin: 0 auto;
+    height: auto;
+    clear: left;
+    margin-top: -30% !important;
+}

@@ -1,0 +1,18 @@
+div.footer {
+    position: absolute;
+    left: 50%;
+    top: 95%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    font-size: 30px;
+    font-weight: 600;
+}
+
+div.footer > a {
+    color: #fafafa !important;
+    text-decoration: none;
+}
+
+div.footer > a:hover {
+    color: #5f2b84 !important;
+}
